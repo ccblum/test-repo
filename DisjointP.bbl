@@ -1,0 +1,136 @@
+\begin{thebibliography}{999}
+
+\bibitem[Yetgin \em{et~al.}(2017)Yetgin, Cheung, El-Hajjar, and
+  Hanzo]{yet2017:WSNsurvey}
+Yetgin, H.; Cheung, K.T.K.; El-Hajjar, M.; Hanzo, L.H.
+\newblock A survey of network lifetime maximization techniques in wireless
+  sensor networks.
+\newblock {\em IEEE Communications Surveys \& Tutorials} {\bf 2017}, {\em
+  19},~828--854.
+
+\bibitem[Cardei \em{et~al.}(2005)Cardei, Thai, Li, and Wu]{cardei2005energy}
+Cardei, M.; Thai, M.T.; Li, Y.; Wu, W.
+\newblock Energy-efficient target coverage in wireless sensor networks.
+\newblock  Proceedings IEEE 24th Annual Joint Conference of the IEEE Computer
+  and Communications Societies. IEEE,  2005, Vol.~3, pp. 1976--1984.
+
+\bibitem[Slijepcevic and Potkonjak(2001)]{sliPot2001:KSC_first}
+Slijepcevic, S.; Potkonjak, M.
+\newblock Power efficient organization of wireless sensor networks.
+\newblock  ICC 2001. IEEE International Conference on Communications.
+  Conference Record (Cat. No. 01CH37240). IEEE,  2001, Vol.~2, pp. 472--476.
+
+\bibitem[Wang \em{et~al.}(2018)Wang, Li, Chang, and Chang]{wang2018:KSC_MA}
+Wang, H.; Li, Y.; Chang, T.; Chang, S.
+\newblock An effective scheduling algorithm for coverage control in underwater
+  acoustic sensor network.
+\newblock {\em Sensors} {\bf 2018}, {\em 18},~2512.
+
+\bibitem[Liao and Ting(2017)]{lia2017:KSC_MA}
+Liao, C.C.; Ting, C.K.
+\newblock A novel integer-coded memetic algorithm for the set $ k $-cover
+  problem in wireless sensor networks.
+\newblock {\em IEEE transactions on cybernetics} {\bf 2017}, {\em
+  48},~2245--2258.
+
+\bibitem[Chen \em{et~al.}(2014)Chen, Li, and Yue]{chen2014:KSC_MA}
+Chen, Z.; Li, S.; Yue, W.
+\newblock Memetic algorithm-based multi-objective coverage optimization for
+  wireless sensor networks.
+\newblock {\em Sensors} {\bf 2014}, {\em 14},~20500--20518.
+
+\bibitem[Balaji \em{et~al.}(2020)Balaji, Anitha, Rekha, and
+  Arivudainambi]{balaji2020:KSC_Cuckoo}
+Balaji, S.; Anitha, M.; Rekha, D.; Arivudainambi, D.
+\newblock Energy efficient target coverage for a wireless sensor network.
+\newblock {\em Measurement} {\bf 2020}, {\em 165},~108167.
+
+\bibitem[D’Ambrosio \em{et~al.}(2020)D’Ambrosio, Iossa, Laureana, and
+  Palmieri]{d2020:KSC_genetic}
+D’Ambrosio, C.; Iossa, A.; Laureana, F.; Palmieri, F.
+\newblock A genetic approach for the maximum network lifetime problem with
+  additional operating time slot constraints.
+\newblock {\em Soft Computing} {\bf 2020}, pp. 1--7.
+
+\bibitem[Li \em{et~al.}(2020)Li, Potru, and Shahrokhi]{a13120339}
+Li, J.; Potru, R.; Shahrokhi, F.
+\newblock A Performance Study of Some Approximation Algorithms for Computing a
+  Small Dominating Set in a Graph.
+\newblock {\em Algorithms} {\bf 2020}, {\em 13}.
+
+\bibitem[Li \em{et~al.}(2019)Li, Hu, Liu, Li, Ouyang, and Yin]{li2019multi}
+Li, R.; Hu, S.; Liu, H.; Li, R.; Ouyang, D.; Yin, M.
+\newblock Multi-Start Local Search Algorithm for the Minimum Connected
+  Dominating Set Problems.
+\newblock {\em Mathematics} {\bf 2019}, {\em 7},~article number 1173.
+
+\bibitem[Bouamama and Blum(2021)]{a14030079}
+Bouamama, S.; Blum, C.
+\newblock An Improved Greedy Heuristic for the Minimum Positive Influence
+  Dominating Set Problem in Social Networks.
+\newblock {\em Algorithms} {\bf 2021}, {\em 14}.
+
+\bibitem[Garey and Johnson(1979)]{Garey79:DDScomplexity}
+Garey, M.; Johnson, D.
+\newblock {\em Computers and intractability. A guide to the theory of
+  NP-completeness}; W. H. Freeman,  1979.
+
+\bibitem[Cardei \em{et~al.}(2002)Cardei, MacCallum, Cheng, Min, Jia, Li, and
+  Du]{cardei2002:DDSproblem}
+Cardei, M.; MacCallum, D.; Cheng, M.X.; Min, M.; Jia, X.; Li, D.; Du, D.Z.
+\newblock Wireless sensor networks with energy efficient organization.
+\newblock {\em Journal of Interconnection Networks} {\bf 2002}, {\em
+  3},~213--229.
+
+\bibitem[Feige \em{et~al.}(2002)Feige, Halld{\'o}rsson, Kortsarz, and
+  Srinivasan]{feige2002approximating}
+Feige, U.; Halld{\'o}rsson, M.M.; Kortsarz, G.; Srinivasan, A.
+\newblock Approximating the domatic number.
+\newblock {\em SIAM Journal on computing} {\bf 2002}, {\em 32},~172--195.
+
+\bibitem[Moscibroda and Wattenhofer(2005)]{moscibroda2005:DDSproblem}
+Moscibroda, T.; Wattenhofer, R.
+\newblock Maximizing the lifetime of dominating sets.
+\newblock  19th IEEE International Parallel and Distributed Processing
+  Symposium. IEEE,  2005, pp. 8--pp.
+
+\bibitem[Nguyen and Huynh(2007)]{nguyen2007:greedy_planar}
+Nguyen, T.N.; Huynh, D.T.
+\newblock Extending sensor networks lifetime through energy efficient
+  organization.
+\newblock  International Conference on Wireless Algorithms, Systems and
+  Applications (WASA 2007). IEEE,  2007, pp. 205--212.
+
+\bibitem[Islam \em{et~al.}(2009)Islam, Akl, and Meijer]{islam2009:DDS_greedy}
+Islam, K.; Akl, S.G.; Meijer, H.
+\newblock Maximizing the lifetime of wireless sensor networks through domatic
+  partition.
+\newblock  2009 IEEE 34th Conference on Local Computer Networks. IEEE,  2009,
+  pp. 436--442.
+
+\bibitem[Pino \em{et~al.}(2018)Pino, Choudhury, and
+  Al-Turjman]{pino2018:dominating}
+Pino, T.; Choudhury, S.; Al-Turjman, F.
+\newblock Dominating set algorithms for wireless sensor networks survivability.
+\newblock {\em IEEE Access} {\bf 2018}, {\em 6},~17527--17532.
+
+\bibitem[Haynes \em{et~al.}(2020)Haynes, Hedetniemi, and
+  Henning]{hay2020:book_Domination}
+Haynes, T.W.; Hedetniemi, S.T.; Henning, M.A.
+\newblock {\em Topics in Domination in Graphs}; Springer,  2020.
+
+\bibitem[Bouamama and Blum(2016)]{bouamama2016:hybrid}
+Bouamama, S.; Blum, C.
+\newblock A hybrid algorithmic model for the minimum weight dominating set
+  problem.
+\newblock {\em Simulation Modelling Practice and Theory} {\bf 2016}, {\em
+  64},~57--68.
+
+\bibitem[Blum \em{et~al.}(2016)Blum, Davidson,
+  L{\'{o}}pez{-}Ib{\'{a}}{\~{n}}ez, and Lozano]{DBLP:journals/cor/BlumDLL16}
+Blum, C.; Davidson, P.P.; L{\'{o}}pez{-}Ib{\'{a}}{\~{n}}ez, M.; Lozano, J.A.
+\newblock Construct, Merge, Solve {\&} Adapt: {A} new general algorithm for
+  combinatorial optimization.
+\newblock {\em Computers \& Operations Research} {\bf 2016}, {\em 68},~75--88.
+
+\end{thebibliography}
